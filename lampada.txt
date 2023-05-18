@@ -1,0 +1,10 @@
+1) Lampada queimou
+2) Ir até o armário e pegar uma nova lampada
+3) Pegar uma escada
+4) Posicionar a escada
+5) Subir na escada
+6) Tirar a lampada queimada
+7) Colocar a lampada nova
+8) Descer da escada com a lampada queimada
+9) Descartar a lampada queimada
+10) Guardar a escada
